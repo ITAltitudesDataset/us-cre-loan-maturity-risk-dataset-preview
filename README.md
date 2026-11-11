@@ -101,3 +101,12 @@ Available in Excel and CSV editions.
 **Prepared by IT Altitudes Inc.**
 
 *Structured Data | Research-Ready Reference | Buyer-Friendly Documentation*
+
+## Explore More Datasets from IT Altitudes Inc.
+
+- [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
+- [US Area Codes & Geographic Reference](https://github.com/ITAltitudesDataset/us-area-codes-dataset-preview)
+- [Global Tariff Realignment](https://github.com/ITAltitudesDataset/Global-Tariff-Realignment-Dataset-Preview)
+- [Geothermal Electricity Capacity](https://github.com/ITAltitudesDataset/geothermal-electricity-capacity-dataset)
+
+**[Explore Our Complete Dataset Catalog](https://github.com/ITAltitudesDataset)**
