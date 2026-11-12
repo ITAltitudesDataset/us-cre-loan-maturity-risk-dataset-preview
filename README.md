@@ -141,6 +141,19 @@ Available in Excel and CSV editions.
 
 *Structured Data | Research-Ready Reference | Buyer-Friendly Documentation*
 
+---
+
+## License & Liability Documentation
+
+- [Preview License & Usage Terms](LICENSE.md)
+- [SEC Source Attribution & Liability Disclaimer](DISCLAIMER.md)
+
+This dataset is a static reference snapshot prepared from publicly available SEC EDGAR filing information.
+
+It is intended for research and analytical use, not live credit decisions or investment recommendations.
+
+Underlying source materials and IT Altitudes' original value-added documentation remain subject to their respective applicable rights.
+
 ## Explore More Datasets from IT Altitudes Inc.
 
 - [OFAC Sanctions (SDN) Dataset](https://github.com/ITAltitudesDataset/ofac-sanctions-dataset-sample)
