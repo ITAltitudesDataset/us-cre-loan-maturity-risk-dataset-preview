@@ -1,3 +1,4 @@
+
 # US CRE Loan Maturity & Risk Reference Dataset
 
 ### 🛒 Get the Complete Dataset
@@ -84,6 +85,152 @@ The Excel preview may also include supporting documentation.
 - Academic and market researchers
 - Data analysts working with CRE information
 - Software developers evaluating structured CRE data
+
+## 💼 Business Use Cases
+
+The **US CRE Loan Maturity & Risk Reference Dataset** supports research and analytical applications across commercial real estate finance, lending, portfolio analysis, market intelligence, and data engineering.
+
+The following use cases illustrate how organizations can work with structured SEC EDGAR-derived commercial real estate loan information for historical research, exploratory analysis, and non-production analytical workflows.
+
+### 1. Commercial Real Estate Loan Maturity Analysis
+
+**Ideal for:** CRE analysts, commercial lenders, real estate consultants, and financial researchers.
+
+**Business Applications:**
+
+- Examine reported loan maturity dates across available records.
+- Group loans by maturity year to study potential refinancing periods.
+- Analyze available loan amounts and interest rate information.
+- Prepare exploratory loan maturity schedules.
+- Develop historical maturity distribution reports.
+
+**Potential Buyer Value:** Reduce manual organization of SEC filing information and support structured commercial real estate loan maturity research.
+
+### 2. CRE Credit Risk & Exposure Research
+
+**Ideal for:** Credit risk researchers, lending analysts, and financial institutions.
+
+**Business Applications:**
+
+- Explore reported loan-level characteristics relevant to credit risk research.
+- Compare available loan amounts, maturity dates, and interest rates.
+- Study concentration patterns across the available records.
+- Identify records requiring further investigation using authoritative source documents.
+- Develop exploratory credit exposure summaries.
+
+**Potential Buyer Value:** Support preliminary credit risk research using structured loan reference information.
+
+**Important:** The dataset does not provide independently validated credit ratings, default probabilities, or complete borrower-level financial assessments.
+
+### 3. Commercial Mortgage Refinancing Research
+
+**Ideal for:** Commercial mortgage researchers, real estate finance consultants, and investment analysts.
+
+**Business Applications:**
+
+- Identify historical loan records grouped by reported maturity periods.
+- Examine loan characteristics potentially relevant to refinancing research.
+- Compare available loan balances and interest rate information.
+- Prepare descriptive reports on selected commercial mortgage exposures.
+- Support preliminary research into commercial real estate refinancing trends.
+
+**Potential Buyer Value:** Provide structured reference information for historical refinancing-related analysis.
+
+**Important:** Reported maturity dates and balances may have changed since the underlying filings. They must not be treated as current outstanding obligations without independent verification.
+
+### 4. CRE Portfolio & Market Intelligence
+
+**Ideal for:** Portfolio research teams, CRE consultants, and institutional market researchers.
+
+**Business Applications:**
+
+- Examine available loan records across the dataset.
+- Analyze selected loan characteristics for exploratory portfolio research.
+- Review linked property information in the Excel buyer kit.
+- Prepare descriptive summaries of loan and property relationships.
+- Support market research reports and internal analytical presentations.
+
+**Potential Buyer Value:** Reduce manual preparation of selected SEC-derived CRE loan and property reference information.
+
+**Important:** Records may represent reported loan interests rather than unique whole mortgages. They should not automatically be aggregated as distinct underlying loans.
+
+### 5. Commercial Real Estate Investment Research
+
+**Ideal for:** Real estate investment researchers, financial analysts, and consulting firms.
+
+**Business Applications:**
+
+- Study historical commercial mortgage characteristics.
+- Examine selected loan maturity and interest rate information.
+- Compare available records for exploratory financial research.
+- Prepare supporting reference tables for investment research reports.
+- Identify areas requiring additional source-document review.
+
+**Potential Buyer Value:** Support preliminary commercial real estate investment research with organized reference data.
+
+**Important:** The dataset does not establish current investment value, property performance, borrower creditworthiness, or investment suitability.
+
+### 6. Business Intelligence & CRE Analytics Dashboards
+
+**Ideal for:** Business intelligence analysts, financial data analysts, and dashboard developers.
+
+**Business Applications:**
+
+- Create loan maturity distribution charts.
+- Visualize available loan amounts and interest rate information.
+- Develop exploratory dashboards using Excel, Power BI, Tableau, or Python.
+- Prepare summaries based on available loan-level fields.
+- Build research dashboards for non-production analytical workflows.
+
+**Potential Buyer Value:** Simplify data preparation for commercial real estate loan research dashboards and visual reporting.
+
+### 7. Financial Data Engineering & ETL Development
+
+**Ideal for:** Data engineers, software developers, and financial analytics teams.
+
+**Business Applications:**
+
+- Import structured CRE loan records into SQL databases.
+- Develop CSV ingestion and transformation pipelines.
+- Test JSON parsing using the free preview.
+- Practice schema validation and missing-value handling.
+- Build analytical prototypes using financial reference information.
+- Evaluate data processing workflows with structured loan records.
+
+**Potential Buyer Value:** Provide a practical reference dataset for financial data engineering, software testing, and analytical prototyping.
+
+### 8. Academic & Commercial Real Estate Finance Research
+
+**Ideal for:** Universities, students, economists, and academic research institutions.
+
+**Business Applications:**
+
+- Study historical commercial mortgage characteristics.
+- Analyze reported maturity dates and interest rate information.
+- Develop educational exercises involving financial reference data.
+- Practice exploratory financial data analysis.
+- Prepare academic reports and visualizations using publicly sourced records.
+
+**Potential Buyer Value:** Provide organized reference information for educational research and financial data analysis.
+
+### Why Consider the Complete Buyer Kit?
+
+The free 50-row preview allows users to evaluate the dataset structure and selected loan records.
+
+The complete buyer kit offers:
+
+- **554 curated loan entries** for broader historical analysis.
+- **Structured loan reference information** prepared from SEC EDGAR filings.
+- **Excel Buyer Kit:** Includes linked property records and supporting documentation.
+- **CSV Edition:** Provides the primary loan records for lightweight analytical workflows.
+- **Research Documentation:** Includes methodology, source provenance, and usage limitations in the Excel edition.
+- **Analytical Compatibility:** Suitable for Excel, Python, R, SQL, and business intelligence workflows.
+
+**[Explore the Complete US CRE Loan Maturity & Risk Dataset — $189](https://italtitudes.gumroad.com/l/cyvqx)**
+
+*Business use cases are illustrative and depend on the available fields, completeness, and historical coverage of the purchased dataset. This is a static reference resource, not a live credit risk scoring system, loan servicing database, or investment advisory product.*
+
+---
 
 ## 📦 What's Included in the Paid Editions?
 
