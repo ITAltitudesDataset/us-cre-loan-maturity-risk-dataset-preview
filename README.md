@@ -203,6 +203,18 @@ The following use cases illustrate how organizations can work with structured SE
 
 **Ideal for:** Universities, students, economists, and academic research institutions.
 
+## Machine Learning Demonstration
+
+Explore our reproducible US CRE Loan Maturity & Risk ML demonstration using the 50-row preview.
+
+The Isolation Forest model analyzes loan amounts, interest rates, and maturity periods, identifying 5 statistically unusual observations.
+
+**[View US CRE ML Demonstration](ml_demo/README_ML_DEMO.md)**
+
+![US CRE ML Analysis](ml_demo/us_cre_ml_chart.png)
+
+*Educational demonstration only. Anomaly flags do not establish credit risk, default probability, or investment suitability.*
+
 **Business Applications:**
 
 - Study historical commercial mortgage characteristics.
