@@ -213,6 +213,24 @@ The following use cases illustrate how organizations can work with structured SE
 
 **Potential Buyer Value:** Provide organized reference information for educational research and financial data analysis.
 
+## Dataset Preview & Visual Insights
+
+### Sample Loan Records
+
+![US CRE Dataset Preview](us_cre_preview_screenshot.png)
+
+### Geographic Distribution — 50-Row Sample
+
+![US CRE State Distribution](us_cre_state_chart.png)
+
+Explore the free 50-row preview to examine commercial real estate loan information, including property names, states, maturity dates, original loan amounts, interest rates, and reporting periods.
+
+**Note:** The visualizations represent the 50-row sample only, not the complete 554-entry dataset.
+
+**[Get the Complete US CRE Loan Maturity & Risk Dataset](https://italtitudes.gumroad.com/l/cyvqx)**
+
+For source information and quality limitations, see our [Data Quality Report](DATA_QUALITY_REPORT.md).
+
 ### Why Consider the Complete Buyer Kit?
 
 The free 50-row preview allows users to evaluate the dataset structure and selected loan records.
